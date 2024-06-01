@@ -23,9 +23,10 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="dg4-DT-z25">
-                                <rect key="frame" x="99" y="207" width="240" height="128"/>
+                                <rect key="frame" x="99" y="171" width="240" height="240"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="240" id="AwN-SK-iuS"/>
+                                    <constraint firstAttribute="height" constant="240" id="VO2-MB-tpZ"/>
                                 </constraints>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Description" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xA4-Wc-zkd">
