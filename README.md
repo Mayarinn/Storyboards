@@ -20,11 +20,10 @@
 
 7. `git push --set-upstream RemoteName BranchName`
 
+   *ex.:* `git push --set-upstream Storyboards master`
+
 ## TODO
 
-1. make notes repos
-  1.1 Markdown
-  1.2 Git (see the 10 points from 2022)
-
-
-   *ex.:* `git push --set-upstream Storyboards master`
+1. Make notes repos:
+- 1. Markdown
+- 2. Git (see the 10 points from 2022)
