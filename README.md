@@ -22,9 +22,9 @@
 
 ## TODO
 
-[ ] make notes repos
-  [ ] markdown
-  [ ] git (see the 10 points from 2022)
+1. make notes repos
+  1.1 Markdown
+  1.2 Git (see the 10 points from 2022)
 
 
    *ex.:* `git push --set-upstream Storyboards master`
