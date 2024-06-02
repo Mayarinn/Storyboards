@@ -39,7 +39,7 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="placeholder text" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Qc8-x7-M8S">
-                                        <rect key="frame" x="0.0" y="68.5" width="132.5" height="34"/>
+                                        <rect key="frame" x="0.0" y="68.5" width="310.5" height="34"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                         <textInputTraits key="textInputTraits"/>
                                     </textField>
@@ -51,7 +51,7 @@
                                     </button>
                                 </subviews>
                                 <constraints>
-                                    <constraint firstItem="Qc8-x7-M8S" firstAttribute="width" secondItem="b9z-mQ-0Gk" secondAttribute="width" multiplier="0.426731" id="2an-3U-04s"/>
+                                    <constraint firstItem="Qc8-x7-M8S" firstAttribute="width" secondItem="b9z-mQ-0Gk" secondAttribute="width" id="2an-3U-04s"/>
                                 </constraints>
                             </stackView>
                         </subviews>
