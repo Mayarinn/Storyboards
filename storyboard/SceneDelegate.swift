@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  storyboard
 //
-//  Created by Maÿarinn Tindómë on 4/17/24.
+//  Created by Karina Osadchaya on 4/17/24.
 //
 
 import UIKit
