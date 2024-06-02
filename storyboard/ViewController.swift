@@ -9,14 +9,12 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    // MARK: - View properties
+    
     @IBOutlet weak var TitleLabel: UILabel!
-    
     @IBOutlet weak var StoryboardsImage: UIImageView!
-    
     @IBOutlet weak var DescriptionLabel: UILabel!
-    
     @IBOutlet weak var TextField: UITextField!
-    
     @IBOutlet weak var PushMeButton: UIButton!
     
     override func viewDidLoad() {
