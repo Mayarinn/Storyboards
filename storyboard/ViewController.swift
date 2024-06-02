@@ -20,6 +20,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+         setupView()
     }
     
     private func setupView () { //sets the elements values to be ready for user to be seen
