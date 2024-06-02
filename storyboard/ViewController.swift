@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var StoryboardsImage: UIImageView!
     
+    @IBOutlet weak var DescriptionLabel: UILabel!
     
     
     override func viewDidLoad() {
