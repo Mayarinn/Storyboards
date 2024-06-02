@@ -50,6 +50,9 @@
                                         <buttonConfiguration key="configuration" style="filled" title="Push me"/>
                                     </button>
                                 </subviews>
+                                <constraints>
+                                    <constraint firstItem="Qc8-x7-M8S" firstAttribute="width" secondItem="b9z-mQ-0Gk" secondAttribute="width" multiplier="0.426731" id="2an-3U-04s"/>
+                                </constraints>
                             </stackView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
