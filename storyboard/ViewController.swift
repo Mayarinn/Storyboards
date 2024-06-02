@@ -21,6 +21,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    
+    private func setupView () { //sets the elements values to be ready for user to be seen
+        
+    }
 
 }
 
