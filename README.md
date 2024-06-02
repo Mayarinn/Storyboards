@@ -27,3 +27,4 @@
 1. Make notes repos:
 - 1. Markdown
 - 2. Git (see the 10 points from 2022)
+2. Think about your own naming politics (lower camel case for act-s and upper for obj-s?)
