@@ -14,11 +14,11 @@
 
     *ex.:* `git remote add Storyboards https://github.com/Mayarinn/Storyboards.git`
 
-5. `git remote remove NAME`
+4. `git remote remove NAME`
 
     *ex.:* `git remote remove Storyboards`
 
-7. `git push --set-upstream RemoteName BranchName`
+5. `git push --set-upstream RemoteName BranchName`
 
    *ex.:* `git push --set-upstream Storyboards master`
 
