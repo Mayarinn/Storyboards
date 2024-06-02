@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     }
     
     private func setupView () { //sets the elements values to be ready for user to be seen
-        
+        TitleLabel.text = "Storyboards"
     }
 
 }
