@@ -11,6 +11,10 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var TitleLabel: UILabel!
     
+    @IBOutlet weak var StoryboardsImage: UIImageView!
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
