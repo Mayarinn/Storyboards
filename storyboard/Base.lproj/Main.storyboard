@@ -45,9 +45,10 @@
                                     </textField>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="i0I-x3-ndi">
                                         <rect key="frame" x="0.0" y="150.5" width="80" height="31"/>
-                                        <color key="tintColor" systemColor="systemPinkColor"/>
                                         <state key="normal" title="Button"/>
-                                        <buttonConfiguration key="configuration" style="filled" title="Push me"/>
+                                        <buttonConfiguration key="configuration" style="filled" title="Push me">
+                                            <color key="baseBackgroundColor" systemColor="systemPinkColor"/>
+                                        </buttonConfiguration>
                                     </button>
                                 </subviews>
                                 <constraints>
