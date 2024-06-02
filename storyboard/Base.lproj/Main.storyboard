@@ -71,6 +71,7 @@
                     <connections>
                         <outlet property="DescriptionLabel" destination="xA4-Wc-zkd" id="92x-Hn-PxX"/>
                         <outlet property="StoryboardsImage" destination="dg4-DT-z25" id="BO0-H6-pMg"/>
+                        <outlet property="TextField" destination="Qc8-x7-M8S" id="B6l-DK-Zmh"/>
                         <outlet property="TitleLabel" destination="hp2-sf-kU3" id="Tba-D5-D9K"/>
                     </connections>
                 </viewController>

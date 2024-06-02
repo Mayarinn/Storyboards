@@ -15,6 +15,9 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var DescriptionLabel: UILabel!
     
+    @IBOutlet weak var TextField: UITextField!
+    
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
