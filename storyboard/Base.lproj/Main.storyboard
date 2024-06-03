@@ -30,7 +30,7 @@
                                 </constraints>
                             </imageView>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="48" translatesAutoresizingMaskIntoConstraints="NO" id="b9z-mQ-0Gk">
-                                <rect key="frame" x="50" y="461" width="310.5" height="260.5"/>
+                                <rect key="frame" x="50" y="461" width="310.5" height="181.5"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="(placeholder description)" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xA4-Wc-zkd">
                                         <rect key="frame" x="0.0" y="0.0" width="191.5" height="20.5"/>
@@ -51,16 +51,6 @@
                                         </buttonConfiguration>
                                         <connections>
                                             <action selector="newButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vcy-EA-hGN"/>
-                                        </connections>
-                                    </button>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="i0I-x3-ndi">
-                                        <rect key="frame" x="0.0" y="229.5" width="185" height="31"/>
-                                        <state key="normal" title="Button"/>
-                                        <buttonConfiguration key="configuration" style="filled" title="(placeholder button text)">
-                                            <color key="baseBackgroundColor" systemColor="systemPinkColor"/>
-                                        </buttonConfiguration>
-                                        <connections>
-                                            <action selector="buttonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="fal-BZ-JiQ"/>
                                         </connections>
                                     </button>
                                 </subviews>
@@ -84,7 +74,6 @@
                     <connections>
                         <outlet property="DescriptionLabel" destination="xA4-Wc-zkd" id="92x-Hn-PxX"/>
                         <outlet property="NewButton" destination="hGJ-tN-Txz" id="vaA-fN-3wb"/>
-                        <outlet property="PushMeButton" destination="i0I-x3-ndi" id="hR3-cY-nrr"/>
                         <outlet property="StoryboardsImage" destination="dg4-DT-z25" id="BO0-H6-pMg"/>
                         <outlet property="TextField" destination="Qc8-x7-M8S" id="B6l-DK-Zmh"/>
                         <outlet property="TitleLabel" destination="hp2-sf-kU3" id="Tba-D5-D9K"/>
