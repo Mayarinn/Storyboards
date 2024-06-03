@@ -5,6 +5,21 @@
 
 1. `git init` inside the inner folder
 2. Do not commit the `project.xcodeproj` and `.DS_Store`
+3. Change the email
+
+    1. `git config --show-scope --get-user.email`
+    
+    -- shows the current **LOCAL** email; use inside the working directory
+    
+    2. `git config user.email "new@mail.com"`
+    
+    -- sets the new email
+    
+    3. Check if it changed with (1) once again
+    
+    4. You can see global settings with
+    
+    `git config --show-origin --get user.name`
 
 ### Working with the remotes
 
