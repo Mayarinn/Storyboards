@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var DescriptionLabel: UILabel!
     @IBOutlet weak var TextField: UITextField!
     @IBOutlet weak var PushMeButton: UIButton!
+    @IBOutlet weak var NewButton: UIButton!
     
     override func viewDidLoad() {
         super.viewDidLoad()
