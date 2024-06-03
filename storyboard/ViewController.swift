@@ -31,7 +31,7 @@ class ViewController: UIViewController {
         DescriptionLabel.numberOfLines = 0
         TextField.placeholder = "waiting for you"
         PushMeButton.titleLabel?.text = "Push me"
-        
+        NewButton.setTitle("Push me", for: .normal)
     }
     
     @IBAction func buttonTapped(_ sender: UIButton) {
