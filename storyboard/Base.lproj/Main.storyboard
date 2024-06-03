@@ -49,6 +49,9 @@
                                         <buttonConfiguration key="configuration" style="filled" title="(placeholder button text)">
                                             <color key="baseBackgroundColor" systemColor="systemPinkColor"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="buttonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="fal-BZ-JiQ"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                                 <constraints>
