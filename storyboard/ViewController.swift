@@ -33,8 +33,10 @@ class ViewController: UIViewController {
     }
     
     @IBAction func newButtonTapped(_ sender: UIButton) {
-        NewButton.setTitle(TextField.text, for: .normal)
-        TextField.text = ""
+        if TextField.text != "" {
+                    NewButton.setTitle(TextField.text, for: .normal)
+                    TextField.text = ""
+                }
     }
     
 }
