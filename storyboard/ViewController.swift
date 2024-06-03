@@ -33,6 +33,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func newButtonTapped(_ sender: UIButton) {
+        print("Hello")
     }
     
 }
