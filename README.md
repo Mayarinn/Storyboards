@@ -1,6 +1,5 @@
 # NotaBene
 
-2. Do not commit the `project.xcodeproj` and `.DS_Store`
 3. Change the email
 
     1. `git config --show-scope --get user.email`
