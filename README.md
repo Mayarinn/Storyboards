@@ -1,10 +1,6 @@
 # NotaBene
 
 3. Change the email
-
-    1. `git config --show-scope --get user.email`
-    
-    -- shows the current **LOCAL** email; use inside the working directory
     
     2. `git config user.email "new@mail.com"`
     
