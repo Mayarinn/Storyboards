@@ -1,8 +1,6 @@
 # NotaBene
 
 3. Change the email
-    
-    3. Check if it changed with (1) once again
 
 ## TODO
 
