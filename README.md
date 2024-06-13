@@ -1,7 +1,5 @@
 # NotaBene
 
-3. Change the email
-
 ## TODO
 
 1. Think about your own naming politics (lower camel case for act-s and upper for obj-s?)
