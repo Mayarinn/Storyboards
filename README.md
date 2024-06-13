@@ -16,22 +16,6 @@
     
     `git config --show-origin --get user.name`
 
-### Working with the remotes
-
-1. `git init`
-2. `git remote -v`
-3. `git remote add NAME URL`
-
-    *ex.:* `git remote add Storyboards https://github.com/Mayarinn/Storyboards.git`
-
-4. `git remote remove NAME`
-
-    *ex.:* `git remote remove Storyboards`
-
-5. `git push --set-upstream RemoteName BranchName`
-
-   *ex.:* `git push --set-upstream Storyboards master`
-
 ## TODO
 
 1. Think about your own naming politics (lower camel case for act-s and upper for obj-s?)
