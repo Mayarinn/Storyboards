@@ -7,10 +7,6 @@
     -- sets the new email
     
     3. Check if it changed with (1) once again
-    
-    4. You can see global settings with
-    
-    `git config --show-origin --get user.name`
 
 ## TODO
 
