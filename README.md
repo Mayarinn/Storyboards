@@ -2,10 +2,6 @@
 
 3. Change the email
     
-    2. `git config user.email "new@mail.com"`
-    
-    -- sets the new email
-    
     3. Check if it changed with (1) once again
 
 ## TODO
